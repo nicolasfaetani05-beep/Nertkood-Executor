@@ -1,5 +1,5 @@
 --[[ 
-  NERTKOOD EXECUTOR v6.0 - THE FULL BUILD
+  NERTKOOD EXECUTOR v1 - THE FULL BUILD
   Color Settings, FPS Boost, Search API, and Floating UI.
 --]]
 
