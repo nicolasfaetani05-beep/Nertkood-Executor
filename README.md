@@ -14,7 +14,7 @@ MainFrame.Position = UDim2.new(0.5, -200, 0.5, -150)
 MainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 MainFrame.Visible = false
 
--- 2. SEARCH ENGINE (NUBE)
+-- 2. SEARCH ENGINE (cloud)
 local SearchBox = Instance.new("TextBox", MainFrame)
 SearchBox.PlaceholderText = "Search ScriptBlox..."
 SearchBox.Size = UDim2.new(0, 300, 0, 40)
